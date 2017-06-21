@@ -1,0 +1,13 @@
+{
+	"name" : "mmb-config-client",
+	"profiles" : [
+		"default"
+	],
+	"label" : "master",
+	"version" : "1.1",
+	"propertySources" : [
+		{
+			"name" : "",
+		}
+	]
+}
